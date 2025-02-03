@@ -218,4 +218,4 @@ elif nextitem in bad_loot_options:
 else:
     print("That item was not useful")
 
-print("Your new health is now " + health_points)
+print("Your new health is now " + str(health_points))
